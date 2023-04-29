@@ -7,8 +7,8 @@ https://hellogithub.com/_next/data/mviPfxqgWegJ1FtRaVTNc/periodical/volume/85.js
 
 ## 游戏
 
-* https://github.com/loadzero/si78c
-* https://github.com/nbarkhina/MarioHTML
+* https://github.com/loadzero/si78c           -- 需要SDL
+* https://github.com/nbarkhina/MarioHTML      -- 需要npm
 * https://github.com/mayerui/sudoku
 
 ## 编程语言
@@ -36,7 +36,6 @@ https://hellogithub.com/_next/data/mviPfxqgWegJ1FtRaVTNc/periodical/volume/85.js
 * https://github.com/Metroxe/one-html-page-challenge  -- 单页游戏或者工具
 
 * https://github.com/vulhub/vulhub       --  漏洞环境搭建
-
 * https://github.com/Gusabary/FlowChar           --  命令行流程图
 * https://github.com/LingDong-/shan-shui-inf     --  代码画的山水画
 
