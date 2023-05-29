@@ -20,7 +20,8 @@ a collection of thirdpart modules and tools
 * binutils
 * lrzsz
 * procmail
-* quagga
+* quagga/frr
+* strongswan/openswan
 * curl
 * pppoe
 * ldap   openldap
@@ -30,8 +31,9 @@ a collection of thirdpart modules and tools
 * nginx
 * redis
 * wrk
-* splite
+* sqlite
 * openssl
+* luajit
 * tcpreplay
 * tshark
 
